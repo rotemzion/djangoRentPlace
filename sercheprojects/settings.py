@@ -67,6 +67,7 @@ MIDDLEWARE = [
 
 
 ROOT_URLCONF = 'sercheprojects.urls'
+STATIC_ROOT = '/class_61/django/static'
 
 TEMPLATES = [
     {
